@@ -9,3 +9,5 @@
 
 # Ignore local configuration
 .idea
+
+.DS_Store
